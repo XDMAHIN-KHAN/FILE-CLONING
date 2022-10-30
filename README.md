@@ -1,5 +1,5 @@
 # FILE-CLONING
-This tools is free
+THIS TOOLS IS FREE
 
 ☑️ git clone https://github.com/XDMAHIN-KHAN/FILE-CLONING
 
